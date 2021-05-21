@@ -1,0 +1,8 @@
+Performing Data Analysis of Meteorological Data
+
+prepared this task under the intership for suvan consultants & technology pvt.ltd
+
+Using Scikit-Learn
+Here used data of student details which were saved in .csv format.
+studentDetails.csv file is provided.
+For futher details check my blog:
